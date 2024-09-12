@@ -1,5 +1,7 @@
 # Meme Generator app fetches meme images and allows users to add text to create memes [React.js]
 
+[Live Demo](https://adarshkotian99.github.io/meme-generator/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
